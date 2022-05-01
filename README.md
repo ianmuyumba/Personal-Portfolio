@@ -22,8 +22,8 @@
 <p>I developed the Legacy Football Academy Website, that now boasts of a better ranking on major search engines’ results. I also designed the academy’s brand guideline which comprises of, among others, the Academy’s logo, fonts, brand colours and their application.</p>
 
 <h2>Reach Out</h2>
-Phone: <a href="tel:+254712154628">+254 712 154 628</a>
-Email: <a href="mailto:ianmandela@gmail.com">ianmandela@gmail.com</a>
-Twitter: <a href="https://twitter.com/ianmuyumba">@ianmuyumba</a>
-LinkedIn: <a href="https://www.linkedin.com/in/ian-muyumba/">Ian Muyumba</a>
+Phone: <a href="tel:+254712154628">+254 712 154 628</a><br>
+Email: <a href="mailto:ianmandela@gmail.com">ianmandela@gmail.com</a><br>
+Twitter: <a href="https://twitter.com/ianmuyumba">@ianmuyumba</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/ian-muyumba/">Ian Muyumba</a><br>
 Behance: <a href="https://www.behance.net/ianmuyumba">Ian Muyumba</a>
